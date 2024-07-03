@@ -66,6 +66,7 @@ fun ShoppingListApp(modifier : Modifier = Modifier) {
             .padding(16.dp)){
             items(sItem){
                 ShoppingListItem(it, {} , {})
+
             }
         }
     }
