@@ -22,7 +22,7 @@ private val DarkColorScheme = darkColorScheme(
 private val LightColorScheme = lightColorScheme(
     primary = MenuPColor,
     background = Color.White,
-    surface = Color.White
+    surface = Color.Black
 
     /* Other default colors to override
     background = Color(0xFFFFFBFE),
